@@ -1,4 +1,4 @@
-from myproject import app
+from /srv/mytest import app
 
 if __name__ == "__main__":
     app.run()
